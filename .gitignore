@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.egg-info/
+build/
+devel/
+install/
+logs/
+test_results/
+
