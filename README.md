@@ -4,7 +4,7 @@
     </div>
     
     
-### :blue_car: Control :
+### :robot: Robot Control :
 You can control robot with `src/darwin_control/scripts/robot_control.py` file.
 
 
